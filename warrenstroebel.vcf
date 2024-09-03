@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Stroebel;Warren;;;
+FN:Warren Stroebel
+ORG:New Zealand Financial Markets Association
+ADR;TYPE=WORK:Level 12, ANZ Centre,
+171 Featherston Street,
+P O Box 641, Wellington 6011
+TITLE:IT Manager
+TEL;TYPE=CELL:+64210441886
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:warren.stroebel@nzfma.org
+URL;TYPE=Digital Business Card:
+URL:https://www.nzfma.org
+URL;TYPE=Website:https://www.nzfma.org
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100738060
+END:VCARD
